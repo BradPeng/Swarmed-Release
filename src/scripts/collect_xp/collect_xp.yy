@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"collect_xp",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"collect_xp",
+  "parent":{
+    "name":"collect",
+    "path":"folders/Scripts/Player/collect.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

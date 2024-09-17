@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"sound_indexes",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sound_indexes",
+  "parent":{
+    "name":"Text",
+    "path":"folders/Scripts/Text.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

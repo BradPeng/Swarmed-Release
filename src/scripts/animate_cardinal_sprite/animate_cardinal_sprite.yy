@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"animate_cardinal_sprite",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"animate_cardinal_sprite",
+  "parent":{
+    "name":"Enemies",
+    "path":"folders/Scripts/Enemies.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

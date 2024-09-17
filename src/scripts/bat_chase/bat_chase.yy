@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"bat_chase",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"bat_chase",
+  "parent":{
+    "name":"Enemies",
+    "path":"folders/Scripts/Enemies.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

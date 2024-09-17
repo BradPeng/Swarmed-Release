@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ui_darken_background",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ui_darken_background",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

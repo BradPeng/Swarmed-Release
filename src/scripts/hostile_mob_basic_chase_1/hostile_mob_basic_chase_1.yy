@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"hostile_mob_basic_chase_1",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"hostile_mob_basic_chase_1",
+  "parent":{
+    "name":"Enemies",
+    "path":"folders/Scripts/Enemies.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

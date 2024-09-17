@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"hostile_mob_hurt",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"hostile_mob_hurt",
+  "parent":{
+    "name":"Enemies",
+    "path":"folders/Scripts/Enemies.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

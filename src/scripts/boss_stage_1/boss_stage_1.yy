@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"boss_stage_1",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"boss_stage_1",
+  "parent":{
+    "name":"boss",
+    "path":"folders/Scripts/Enemies/boss.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

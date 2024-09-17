@@ -1,0 +1,49 @@
+{
+  "$GMTileSet":"",
+  "%Name":"t_gentle_water_sparkle",
+  "autoTileSets":[],
+  "macroPageTiles":{
+    "SerialiseHeight":0,
+    "SerialiseWidth":0,
+    "TileSerialiseData":[],
+  },
+  "name":"t_gentle_water_sparkle",
+  "out_columns":4,
+  "out_tilehborder":2,
+  "out_tilevborder":2,
+  "parent":{
+    "name":"Tile Sets",
+    "path":"folders/Tile Sets.yy",
+  },
+  "resourceType":"GMTileSet",
+  "resourceVersion":"2.0",
+  "spriteId":{
+    "name":"spr_gentle_water_sparkle",
+    "path":"sprites/spr_gentle_water_sparkle/spr_gentle_water_sparkle.yy",
+  },
+  "spriteNoExport":false,
+  "textureGroupId":{
+    "name":"Default",
+    "path":"texturegroups/Default",
+  },
+  "tileAnimation":{
+    "FrameData":[
+      0,0,0,0,1,2,2,3,2,2,3,1,3,1,2,2,4,5,5,6,5,5,6,4,6,4,5,5,7,7,7,7,8,9,9,10,9,9,10,8,10,8,9,9,11,11,11,
+      11,12,12,12,12,13,13,13,13,14,14,14,14,15,15,15,15,
+    ],
+    "SerialiseFrameCount":4,
+  },
+  "tileAnimationFrames":[
+    {"$GMTileAnimation":"","%Name":"animation_1","frames":[1,2,2,3,],"name":"animation_1","resourceType":"GMTileAnimation","resourceVersion":"2.0",},
+    {"$GMTileAnimation":"","%Name":"animation_2","frames":[4,5,5,6,],"name":"animation_2","resourceType":"GMTileAnimation","resourceVersion":"2.0",},
+    {"$GMTileAnimation":"","%Name":"animation_3","frames":[8,9,9,10,],"name":"animation_3","resourceType":"GMTileAnimation","resourceVersion":"2.0",},
+  ],
+  "tileAnimationSpeed":10.0,
+  "tileHeight":16,
+  "tilehsep":0,
+  "tilevsep":0,
+  "tileWidth":16,
+  "tilexoff":0,
+  "tileyoff":0,
+  "tile_count":16,
+}

@@ -1,0 +1,76 @@
+// Script assets have changed for v2.3.0 see
+// https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
+#macro FRAME_RATE 60 
+#macro TILE_SIZE 16
+#macro CARDINAL_DIR round(direction/90)
+#macro ROOM_START rm_instructions 
+#macro RESOLUTION_W 640	
+#macro RESOLUTION_H 360
+#macro TRANSITION_SPEED 0.02
+#macro OUT 0
+#macro IN 1
+#macro ACTIVATE_RANGE 15
+enum ENEMYSTATE {
+	IDLE,
+	WANDER,
+	CHASE,
+	ATTACK,
+	HURT,
+	DIE,
+	WAIT
+}
+
+enum GREMLIN_BOSS_STATE {
+	IDLE,
+	CHASE,
+	ATTACK,
+	SHOOT,
+	SUMMON,
+	DIE,
+	WAIT
+}
+enum ITEM {
+	NONE,
+	BOMB,
+	MEDKIT,
+	TYPE_COUNT //easy way to get number of items in the enum
+}
+
+enum NPCSTATE {
+	WANDER,
+	IDLE
+}
+
+enum BUFFS {
+	NONE,
+	PROJECTILE,
+	DAMAGE,
+	HEALTH_REGEN,
+	XP,
+	BACK_SHOT,
+	AREA_SIZE,
+	PICKUP_RADIUS,
+	BARREL_BLASTER,
+	ROTATING_BLADES,
+	BUNNY_CROSSBOW,
+	RADIANT_FIELD,
+	BUFFS_LENGTH,
+}
+
+enum AUGMENTS {
+	NONE,
+	CROSS_COUNTRY,
+	MORE_PROJECTILES,
+	MORE_DAMAGE,
+	MORE_XP,
+	MORE_AREA_SIZE,
+	MORE_BACK_SHOTS,
+	AUGMENTS_LENGTH,
+}
+
+enum YUMI_QUESTS {
+	NONE,
+	CATCH_RED_DOT,
+	BALL,
+	YUMI_QUESTS_LENGTH
+}

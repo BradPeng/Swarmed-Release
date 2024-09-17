@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"seconds_to_game_timer",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"seconds_to_game_timer",
+  "parent":{
+    "name":"Game",
+    "path":"folders/Scripts/Game.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"destroy_shop",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"destroy_shop",
+  "parent":{
+    "name":"Shop",
+    "path":"folders/Scripts/Game/Shop.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"apply_permanent_upgrades",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"apply_permanent_upgrades",
+  "parent":{
+    "name":"Shop",
+    "path":"folders/Scripts/Game/Shop.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
